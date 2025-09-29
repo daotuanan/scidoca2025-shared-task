@@ -31,20 +31,10 @@ The dataset includes three subtasks:
 
 ---
 
-## ⚖️ Data Usage Rules
-- No external citation-specific datasets or services (e.g., CrossRef, PubMed).  
-- General-purpose pretrained models (e.g., BERT, RoBERTa) are allowed.  
-- Citation-specific pretrained models (e.g., SPECTER, Galactica) are prohibited.  
-
----
-
 ## 📊 Evaluation
 - **Citation Discovery**: Precision, Recall, F1  
 - **Masked Citation Prediction**: Macro-averaged F1 across masked slots  
 - **Citation Sentence Prediction**: Sentence-level F1 + no-citation accuracy  
-
-Details are available in the *SCIDOCA 2025 overview paper*.  
-
 ---
 
 ## 🔗 Reference
